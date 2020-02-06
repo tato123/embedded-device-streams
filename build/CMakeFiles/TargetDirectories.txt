@@ -1,0 +1,3 @@
+C:/Users/fonta/Repositories/embedded-device-streams/build/CMakeFiles/Project.dir
+C:/Users/fonta/Repositories/embedded-device-streams/build/CMakeFiles/edit_cache.dir
+C:/Users/fonta/Repositories/embedded-device-streams/build/CMakeFiles/rebuild_cache.dir

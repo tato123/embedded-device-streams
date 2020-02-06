@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/fonta/Repositories/embedded-device-streams/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\BUILDT~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\Project.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\fonta\\Repositories\\embedded-device-streams\\src\\main.cpp",
+  "file": "C:/Users/fonta/Repositories/embedded-device-streams/src/main.cpp"
+}
+]
